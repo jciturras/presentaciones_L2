@@ -1,9 +1,9 @@
 ---
 title: "Reunión de Línea"
 subtitle: "Interacciones Grupales e Individuales"
-author: 
+author:
 - Julio César Iturra Sanhueza
-- "Juan Carlos Castillo" 
+- "Juan Carlos Castillo"
 date: "`r Sys.Date()` "
 output:
   xaringan::moon_reader:
@@ -20,7 +20,7 @@ options(htmltools.dir.version = FALSE)
 
 class: center, middle
 
-# Hola
+# Introducción
 ---
 
 
