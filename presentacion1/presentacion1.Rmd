@@ -1,27 +1,116 @@
 ---
 title: "Reunión de Línea"
-subtitle: "Interacciones Grupales e Individuales"
-author:
-- Julio César Iturra Sanhueza
-- "Juan Carlos Castillo"
-date: "`r Sys.Date()` "
+subtitle: "[Interacciones Grupales e Individuales]()"
+date: "Abril 16, 2019  <br> <br> Pontificia Universidad Católica de Chile"
 output:
   xaringan::moon_reader:
-    lib_dir: libs
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
+    css: ["juitsa-theme.css", "default-fonts.css"]
 ---
-
+class: just
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
-class: center, middle
+# Contenidos reunión
 
-# Introducción
+  ---
+
+1. **Informe Proyecciones COES** 
+
+    a. Características del segundo periodo del Centro
+    
+    b. Objetivos Línea Interacciones Grupales e Individuales
+
+2. **Presentación equipo ELSOC**
+
+3. **Ciencia abierta en COES**
+
+4. **Organización futuras reuniones de línea**
+
+5. **Otros** 
+
 ---
 
+class: center, middle, inverse
+
+
+
+***
+# [Informe Proyecciones]()
+
+## Segundo periodo
+***
 
 ---
+class: just
+# Características de COES 2.0 
+***
+
+Para el nuevo periodo de **COES** se han trazado cinco tareas propritarias:
+
+#### 1 - Fortalecer la investigación interdisciplinaria.
+#### 2 - Cambio Social
+#### 3 - Ciencia Abierta
+#### 4 - Investigación aplicada y políticas públicas.
+#### 5 - Establecimiento de redes de colaboración con instituciones nacionales e internacionales.
+
+---
+class: inverse, center, middle
+
+***
+# [Ciencia Abierta]()
+***
+
+---
+class: just
+
+<br>
+
+Dentro de las cinco tareas para el nuevo periodo de COES, promover una agenda de **Ciencia Abierta** tiene la potencialidad de contribuir al fortalecimiento de las Redes de Colaboración y establecer un diálogo más fluido con investigadores/as de otras instituciones académicas del contexto nacional e internacional.
+
+
+* Fortalecer la Investigación Interdisciplinaria
+* Análisis del Cambio Social.
+* [Ciencia Abierta.]()
+* Investigación Aplicada.
+* Redes de Colaboración.
+
+
+Para esto, se busca impulsar una lógica de trabajo basada en los princios de _**Reproducibilidad**_, _**Apertura**_ y _**Transparencia**_.
+
+
+
+---
+
+class: inverse, center, middle
+***
+# [Propuesta de trabajo]()
+***
+---
+
+class: just
+
+<br> 
+En consonancia con el apartado anterior, se ha elaborado una propuesta de trabajo basada en el entorno de colaboración académica que ofrece el [*Open Science Framework*](https://osf.io/).    
+
+El _**Open Science Framework**_ es una plataforma de gestión de proyectos **gratuito** y **abierto** que facilita la colaboración a las y los investigadores a lo largo de todo el ciclo de investigación.
+
+
+```{r echo=FALSE, fig.align='center', out.width='60%', fig.cap="<strong> Fig. 1: </strong>  Flujo de trabajo e Integración del Open Science Framework"}
+knitr::include_graphics("images/osfint.png")
+```
+
+
+---
+class: middle, center, inverse
+
+
+```{r echo=FALSE, fig.align='center', out.width='200%', fig.cap="<strong> Fig. 2: </strong>  Secciones de un proyecto "}
+knitr::include_graphics("images/osf-anim.gif")
+```
+
+
+
+
+
+
