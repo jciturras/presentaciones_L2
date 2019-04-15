@@ -5,6 +5,7 @@ date: "Abril 16, 2019  <br> <br> Pontificia Universidad Católica de Chile"
 output:
   xaringan::moon_reader:
     css: ["juitsa-theme.css", "default-fonts.css"]
+    chakra: libs/remark-latest.min.js
 ---
 class: just
 ```{r setup, include=FALSE}
