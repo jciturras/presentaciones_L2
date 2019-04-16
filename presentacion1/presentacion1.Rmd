@@ -181,10 +181,44 @@ knitr::include_graphics("images/osfint.png")
 ---
 class: middle, center, inverse
 
+## Gestión de un proyecto
 
 ```{r echo=FALSE, fig.align='center', out.width='200%', fig.cap="<strong> Fig. 2: </strong>  Secciones de un proyecto "}
 knitr::include_graphics("images/osf-anim.gif")
 ```
+
+[Asistencia - Línea 2 (COES)](https://osf.io/gjfvm/)
+
+---
+class: middle, center 
+
+
+
+```{r echo=FALSE, fig.align='center', out.width='110%'}
+knitr::include_graphics("images/demosal.png")
+```
+
+***
+
+6 - 8 de mayo 2019
+
+## **Instituto de Estudios Avanzados**
+
+## Universidad de Santiago
+
+Román Díaz 89, Providencia, Santiago
+
+```{r echo=FALSE, fig.align='center', out.width='75%'}
+knitr::include_graphics("images/demosal2.png")
+```
+
+
+---
+
+# Cronograma
+
+<table style="border-collapse:collapse;border-spacing:0;border-color:#ccc" class="tg"><tr><th style="font-family:Georgia, serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#f0f0f0;text-align:center;vertical-align:top"></th><th style="font-family:Georgia, serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#f0f0f0;text-align:center;vertical-align:top">Lunes 6</th><th style="font-family:Georgia, serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#f0f0f0;text-align:center;vertical-align:top">Martes 7</th><th style="font-family:Georgia, serif !important;;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#f0f0f0;text-align:center;vertical-align:top">Miércoles 8</th></tr><tr><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;font-weight:bold;text-align:left;vertical-align:top">09:00 - 11:00</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Inscripciones</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Mesas simultáneas</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Mesas simultáneas</td></tr><tr><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;font-weight:bold;text-align:left;vertical-align:top">11:00 - 13:00</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Conferencia Inaugural</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Conferencia Internacional: Dayma Echevarria</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Conferencia Internacional: Patricio Solis</td></tr><tr><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;font-weight:bold;text-align:left;vertical-align:top">15:00 - 17:00</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Mesas simultáneas</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Mesas simultáneas</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Mesas simultáneas</td></tr><tr><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;font-weight:bold;text-align:left;vertical-align:top">17:30 - 18:30</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Conferencia Internacional:&nbsp;&nbsp;Sandra Fachelli</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">-</td><td style="font-family:Georgia, serif !important;;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">-</td></tr></table>
+
 
 
 
